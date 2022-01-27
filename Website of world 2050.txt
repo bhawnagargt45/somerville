@@ -1,0 +1,104 @@
+<html><head></head><body text="white" background="" bgcolor="BLACK"><center>
+<h1><font color="WHITE"><u>WORLD OF 2050</u></font></h1>
+<title>
+</title>
+<body>
+<table border="3"width="100%" bgcolor="Red"height="7"%>
+<tr>
+<th width="25%"><font color="white"><a href="file:///C:/Users/dell/Desktop/Gallery.html">Gallery</font></th></a>
+<th width="25%"><font color="white"><a href="file:///C:/Users/dell/Desktop/About%20us.html">About Us</font></th></a>
+<th width="25%"><font color="white"><a href="file:///C:/Users/dell/Desktop/Contact%20Us.html">Contact Us</font></th>
+</tr>
+</table>
+<marquee bgcolor="red"><h2><font color="yellow"><u>Website Made By - Atharv Mittal &amp; Aaryan Chouhan </u></font></h2> </marquee>
+<img src="Heading pic.JPG"border=10 height="400" width="800"><p></p>
+<b><Font Face="Lucida Calligraphy"><Font Size="20">America's most famous soothsayer John Elfreth Watkins gave a interview on 24/1/22 mainly focused on the world in 2050 he mentioned that the world would be upside-down from now.......</b><p></p>
+<b>Click on the following contents to know on particular topics of 2050 :- <p></p></b>
+</center><br><br><br><br><br
+<b>CONTENTS</b></p>
+<a href="#ECONOMY IN 2050">ECONOMY IN 2050</a></p>
+<a href="#ARMY IN 2050">ARMY IN 2050</a></p
+<p><a href="#ANIMALS IN 2050">ANIMALS IN 2050</a></p
+<p><a href="#DISEASES IN 2050">DISEASES IN 2050</a></p>
+<p><a href="#VEHICLES IN 2050">VEHICLES IN 2050</a></p>
+<p><a href="#SPACE IN 2050">SPACE IN 2050</a></p>
+<p><a href="#UNIONS IN 2050">UNIONS IN 2050</a></p>
+<p><a href="#LANGUAGES IN 2050">LANGUAGES IN 2050</a></p>
+<p><a href="#NATURAL RESOURCES IN 2050">NATURAL RESOURCES IN 2050</a></p>
+
+
+
+
+
+<br><br><br><<br>
+<a name="ECONOMY IN 2050"></a>
+<Font Face="Forte"><Font Size="20"><Font color="WHITE"><pre>ECONOMY IN 2050</pre>
+Many of the countries in the world would be very rich as compared to 2021.
+Countries such as Mali , South Sudan , Burundi , Nijer and Centeral African Republic would be the countries of lowest economies and 
+countries such as India , Brazil , Germany , United States Of America would be having highest economies.<br><br>  
+<br><p><img src="Economy pic.JPEG"border=10 height="700" width="1300"></p><br><br>
+<a name="ARMY IN 2050"></a>
+<Font Face="Forte"><Font Size="20"><pre>ARMY IN 2050</pre>
+Countries such as Taiwan and Pakistan would remain low on army,however,China and India would be competing against each
+other in this category trying to maintain 1st Position.Giving a special mention to Brazil,Brazil would be growing it's army in a very fast pace.
+Other countries such as North Korea,United States and Russia would be maintaining the 4th,5th and 6th position respectively.<br><br>
+<p><img src="Army pic.JPEG"border=10 height="700" width="1300"></p>
+<a name="ANIMALS IN 2050"></a>
+<Font Face="Forte"><Font Size="20"><pre>ANIMALS IN 2050</pre>
+Animals would be living a happy life in 2050.The fruitful decisions of the goverment to protect the Lion's in India would result in Lion's growing in their population without any hunters running for their flesh.Other animals such as Red panda,Snow Leopard and Asian elephant would also be growing simultaneously.<br><br><img src="Animals pic.JPG"border=10 height="700" width="1300"><br><br>
+<a name="DISEASES IN 2050"></a>
+<Font Face="Forte"><Font Size="20"><pre>DISEASES IN 2050</pre>
+Worldwide pandemic "Sansee 50" would be spreading wildly across the countries.However,the good economy 
+of states would result in low impact of the disease.The countries would be focused on making big hospitals to 
+ensure a low impact. This disease would last up to 2.5 years.<br><br><img src="Diseases pic.JPEG"border=10 height="700" width="1300"><br><br>
+
+
+<a name="VEHICLES IN 2050"></a>
+<Font Face="Forte"><Font Size="20"><pre>VEHICLES IN 2050</pre>
+Private transport will be banned and public transport would be on it's peak. The people would pay a certain amount of tax
+for the public transport. The vehicles would be completely powered on hydrogen.These would also be fully automated which would result in less road
+rage and less accidents.The level of pollution will decrease heavily.This would result in less melting of glaciers and the enviorment would be liveable.
+There would be web of Bullet trains all over countries such as India,China,Japan e.t.c
+<br><br><img src="Vehicles pic.JPEG"border=10 height="700" width="1300"><br><br>
+
+
+<a name="SPACE IN 2050"></a>
+<Font Face="Forte"><Font Size="20"><pre>SPACE IN 2050</pre>
+There would be huge developments in the category of space. India will make it's own eco friendly space station better than other organizations. India's
+own space organization "ISRO(Indian Space Research Organization)" would be the most developed space organization.People would be more encouraged
+to join the ISRO.Scientists will find out that humans can survive on Mars which will be a huge discovery for the whole world.This would also 
+create employment amongst people.<br><br><img src="Space pic.JPEG"border=10 height="700" width="1300"><br><br>
+
+
+<a name="UNIONS IN 2050"></a>
+<Font Face="Forte"><Font Size="20"><pre>UNIONS IN 2050</pre>
+EU would be still there. However, Taking inspiration from EU the Asian continent would form an union known as The "AU(Asian Union)".This would
+remain the center of arguement for quite a bit of time as Sri Lanka would be obliged to oppose this historical decisions.Other countries such as Africa would also form an union that too without
+any oppositions.<br><br><img src="Unions pic.JPEG"border=10 height="700" width="1300"><br><br>
+
+
+<a name="LANGUAGES IN 2050"></a>
+<Font Face="Forte"><Font Size="20"><pre>LANGUAGES IN 2050</pre>
+Sanskrit would emerge as the most spoken language with an estimated percentage of 69-75%.This would happen because of the awareness in people to learn historic languages which
+would be a huge achievement for India.Sankrit being the most spoken language would be followed by Hindi and English would be bagging the 3rd position.
+The suspense created for the Harappan language would be on the exit door.India will be able to decode the Harappan language which would 
+result in new discoveries.<br><br><img src="Languages pic.JPEG"border=10 height="700" width="1300"><br><br>
+
+<a name="NATURAL RESOURCES IN 2050"></a>
+<Font Face="Forte"><Font Size="20"><pre>NATURAL RESOURCES IN 2050</pre>
+Natural Resources such as the glaciers,water and air would be in an excellent condition considering the fact that Automated and Hydrogen powered vehicles would be produced.The winters would be chilly cold as they used to be 
+a few centuries ago because of less global warming.This would also result in less diseases amongst the people as bad air and pollution causes many diseases such as Leukemia and Cancers.
+It would help in the inceasing of the living rate(in avg.).<br><br><img src="Natural resources pic.JPEG"border=10 height="700" width="1300">
+
+	
+
+
+
+
+
+
+ 
+
+
+</body>
+</html>
